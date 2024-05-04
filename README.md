@@ -39,7 +39,7 @@ Client Side: HTML, CSS, JavaScript
 <img src="https://github.com/Malikasad74/Pizzaria/blob/main/20230511200152.jpg?raw=true" alt="Our Menu"/>
 <br/>
 <h2> Order Now </h2>
-<img src="" alt="Order Now"/>
+<img src="https://github.com/Malikasad74/Pizzaria/blob/main/20230511200202.jpg?raw=true" alt="Order Now"/>
 <br/>
 <h2> FAQ </h2>
 <img src="" alt="FAQ"/>
