@@ -42,7 +42,7 @@ Client Side: HTML, CSS, JavaScript
 <img src="https://github.com/Malikasad74/Pizzaria/blob/main/20230511200202.jpg?raw=true" alt="Order Now"/>
 <br/>
 <h2> FAQ </h2>
-<img src="" alt="FAQ"/>
+<img src="https://github.com/Malikasad74/Pizzaria/blob/main/20230511200233.jpg?raw=true" alt="FAQ"/>
 <br/>
 
 
