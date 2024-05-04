@@ -30,19 +30,19 @@ Client Side: HTML, CSS, JavaScript
 ## User Interface
 <h2> Home Page </h2>
 <br/>
-<img src="D:\WD\Pizza Shop Management Project\Output\20230511200106.jpg" alt="HomePage"/>
+<img src="https://github.com/Malikasad74/Pizzaria/blob/main/20230511200106.jpg?raw=true" alt="HomePage"/>
 <br/>
 <h2> About Us </h2>
-<img src="D:\WD\Pizza Shop Management Project\Output\20230511200137.jpg" alt="About Us"/>
+<img src="" alt="About Us"/>
 <br/>
 <h2> Our Menu </h2>
-<img src="D:\WD\Pizza Shop Management Project\Output\20230511200152.jpg" alt="Our Menu"/>
+<img src="" alt="Our Menu"/>
 <br/>
 <h2> Order Now </h2>
-<img src="D:\WD\Pizza Shop Management Project\Output\20230511200202.jpg" alt="Order Now"/>
+<img src="" alt="Order Now"/>
 <br/>
 <h2> FAQ </h2>
-<img src="D:\WD\Pizza Shop Management Project\Output\20230511200233.jpg" alt="FAQ"/>
+<img src="" alt="FAQ"/>
 <br/>
 
 
