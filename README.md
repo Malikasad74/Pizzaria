@@ -1,5 +1,5 @@
 
-<h1>PIZZA SHOP MANAGEMENT SYSTEM</h1>
+<h1>Pizza Shop Landing Page</h1>
 
 
 ## Introduction
