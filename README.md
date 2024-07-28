@@ -22,8 +22,6 @@ this system, the project aims to enhance efficiency.
 ##  Software Requirement
 Front end Tool:   Visual Studio Code
 
-Backend:   MYSQL XAMPP Server
-
 Operating System:  Windows 10
 
 Client Side: HTML, CSS, JavaScript
